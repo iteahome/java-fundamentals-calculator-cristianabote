@@ -3,7 +3,7 @@ public class Calculator
     public static void main ( String[] args)
     {
         int x=5,y=2;
-        char c='-';
+        char c='+';
         System.out.println("citeste primul numar x="+x);
 
         System.out.println("citeste al doilea numar y="+y);
